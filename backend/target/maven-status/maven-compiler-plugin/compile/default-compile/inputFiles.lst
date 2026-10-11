@@ -1,0 +1,10 @@
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\BankingApplication.java
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\config\SecurityConfig.java
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\controller\CustomerController.java
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\controller\TransactionController.java
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\model\BankTransaction.java
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\model\Customer.java
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\repository\CustomerRepository.java
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\repository\TransactionRepository.java
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\service\CustomerService.java
+C:\Users\DELL\Downloads\BankingManagementSystem\BankingManagementSystem\backend\src\main\java\com\bank\service\TransactionService.java
